@@ -11,11 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Applied Mathematics,
+  University of Maryland,\
+  May 2025(expected),
+  GPA: 3.86/4.00
 
-Work experience
+* B.S. in Mathematics, Minor in Economics,\
+  Schreyer Honors College,
+  The Pennsylvania State University,\
+  May 2020,
+  GPA: 4.0/4.0
+
+Publications and Preprints
+=====
+* Jiaxin Yuan, Amar Shah, Channing Bentz, and Maria Cameron. *Optimal control for sampling the transition path process and estimating rates.* 2023. submitted. arXiv: 2305.17112 [math.OC].
+* Xiaoyu Liu, Jiaxin Yuan, Bang An, Yuancheng Xu, Yifan Yang, Furong Huang. *C-Disentanglement: Discovering Causally-Independent Generative Factors under an Inductive Bias of Confounder.* 1st SPIGM @ ICML Poster, 2023. accepted.
+
+
+Research project
 ======
 * Summer 2015: Research Assistant
   * Github University
