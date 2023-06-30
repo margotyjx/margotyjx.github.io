@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaxin Yuan"
+title                    : "Jiaxin (Margot) Yuan "
 title_separator          : "-"
-name                     : &name "Jiaxin Yuan"
+name                     : &name "Jiaxin (Margot) Yuan 袁嘉欣"
 description              : &description "personal description"
 url                      : https://margotyjx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
