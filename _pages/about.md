@@ -22,3 +22,9 @@ Education
 * B.S. in Mathematics, Minor in Economics,
   Schreyer Honors College, The Pennsylvania State University,
   May 2020, GPA: 4.0/4.0
+
+Teaching 
+======
+* Teaching assistant for summer REU at University of Maryland, 2022.
+* Teaching assistant for pre-calculus, calculus I, calculus II, ordinary differential equations, elementary statistics and probability and linear algebra, 2020-2023
+
