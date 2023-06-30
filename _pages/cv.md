@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV]((https://github.com/margotyjx/margotyjx.github.io/blob/4b10ddb16aae7b05e19e85b5c20d6312ff9fffa1/Resume_Jiaxin2022.pdf))"
 permalink: /cv/
 author_profile: true
 redirect_from:
