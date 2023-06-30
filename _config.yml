@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiaxin (Margot) Yuan 袁嘉欣"
   avatar           : "profile.JPG"
-  bio              : "Applied Math PhD student at University of Maryland"
+  bio              : "Applied Math PhD student at University of Maryland\n jyuan98@umd.edu"
   location         : "College Park, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-1107-2447"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0009-0007-1107-2447"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
