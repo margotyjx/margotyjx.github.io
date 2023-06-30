@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiaxin (Margot) Yuan 袁嘉欣"
   avatar           : "profile.JPG"
-  bio              : "Applied Math PhD student at University of Maryland\n jyuan98@umd.edu"
+  bio              : "PhD student at University of Maryland\n B.S. in Mathematics, Penn state  \n **jyuan98@umd.edu**"
   location         : "College Park, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jyuan98@umd.edu"
+  email            : # "jyuan98@umd.edu"
   researchgate     :  "https://www.researchgate.net/profile/Jiaxin-Yuan-8"
   uri              :
   bitbucket        :
