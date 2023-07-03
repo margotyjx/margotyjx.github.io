@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Applied Mathematics, Statistics and Scientific Computation (AMSC) program at The University of Maryland, College Park. I am advised by [Maria Cameron](https://www.math.umd.edu/~mariakc/) and working closely with [Furong Huang](http://furong-huang.com/). My current research is in data-driven methods for understanding rare events in molecular dynamics and trustworthy machine learning. My recent research covers a broad range of topics including optimal control, causality in machine learning and scientific computing. 
+I am a PhD student in the Applied Mathematics, Statistics and Scientific Computation (AMSC) program at The University of Maryland, College Park. I am advised by [Maria Cameron](https://www.math.umd.edu/~mariakc/) and working closely with [Furong Huang](http://furong-huang.com/). My current research is in data-driven methods for understanding rare events in molecular dynamics and trustworthy machine learning. My recent research covers a broad range of topics including optimal control, model reduction, causality in machine learning and computational methods for differential equations. 
 <p align="center">
   <img width = '350' src='/images/profile.JPG'>
 </p>
