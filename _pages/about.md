@@ -21,7 +21,7 @@ Publications and preprints
 Education
 ======
 * Ph.D. in Applied Mathematics, University of Maryland,\
-  May 2025(expected), GPA: 3.86/4.00
+  May 2025(expected), GPA: 3.84/4.00
   
 * B.S. in Mathematics, Minor in Economics,\
   Schreyer Honors College, The Pennsylvania State University,\
