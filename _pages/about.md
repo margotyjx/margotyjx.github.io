@@ -16,6 +16,7 @@ I am a PhD student in the Applied Mathematics, Statistics and Scientific Computa
 Publications and preprints
 ======
 * **Jiaxin Yuan**, Amar Shah, Channing Bentz, and Maria Cameron. *Optimal control for sampling the transition path process and estimating rates.* 2023. submitted. arXiv: 2305.17112 [math.OC].
+* Xiaoyu Liu, **Jiaxin Yuan**, Bang An, Yuancheng Xu, Yifan Yang, and Furong Huang. C-Disentanglement: Discovering Causally-Independent Generative Factors under an Inductive Bias of Confounder. Conference on Neural Information Processing Systems (NeurIPS), 2023
 * Xiaoyu Liu, **Jiaxin Yuan**, Bang An, Yuancheng Xu, Yifan Yang, Furong Huang. *C-Disentanglement: Discovering Causally-Independent Generative Factors under an Inductive Bias of Confounder.* International Conference on Machine Learning (ICML) workshop on Structured Probabilistic Inference & Generative Modeling, 2023.
 
 Education
