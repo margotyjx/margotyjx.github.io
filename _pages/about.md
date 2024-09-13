@@ -15,7 +15,7 @@ I am a PhD student in the Applied Mathematics, Statistics and Scientific Computa
 
 Publications and preprints
 ======
-* Xiaoyu Liu*, **Jiaxin Yuan***, Yuhang Zhou, Jingling Li, Furong Huang, Wei Ai. *CSRec: Rethinking Sequential Recommendation from A Causal Perspective. * https://arxiv.org/abs/2409.05872. 2024. *equal contribution. 
+* Xiaoyu Liu*, **Jiaxin Yuan***, Yuhang Zhou, Jingling Li, Furong Huang, Wei Ai. *CSRec: Rethinking Sequential Recommendation from A Causal Perspective.* https://arxiv.org/abs/2409.05872. 2024. *equal contribution. 
 * Zezheng Song*, **Jiaxin Yuan***, Haizhao Yang. *FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model.* https://arxiv.org/abs/2404.14688. 2024. *equal contribution.
 * **Jiaxin Yuan**, Amar Shah, Channing Bentz, and Maria Cameron. *Optimal control for sampling the transition path process and estimating rates.* Communications in Nonlinear Science and Numerical Simulation. Volume 129, February 2024, 107701.
 * Xiaoyu Liu, **Jiaxin Yuan**, Bang An, Yuancheng Xu, Yifan Yang, and Furong Huang. C-Disentanglement: Discovering Causally-Independent Generative Factors under an Inductive Bias of Confounder. Conference on Neural Information Processing Systems (NeurIPS), 2023
