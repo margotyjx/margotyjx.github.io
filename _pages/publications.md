@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **Jiaxin Yuan**, Haizhao Yang, Maria Cameron. FMint-SDE: A Multimodal Foundation Model for Accelerating Numerical Simulation of SDEs via Error Correction. arXiv:2510.27173, 2025. *Under review*.
 * **Jiaxin Yuan**, Shashank Sule, Yeuk Yin Lam, Maria Cameron; Learning collective variables that respect permutational symmetry. J. Chem. Phys. 7 October 2025; 163 (12): 124101. https://doi.org/10.1063/5.0288154
 * Xiaoyu Liu<sup>*</sup>, **Jiaxin Yuan**<sup>*</sup>, Yuhang Zhou, Jingling Li, Furong Huang, Wei Ai. CSRec: Rethinking Sequential Recommendation from A Causal Perspective. SIGIR, 2025. arXiv: 2409.05872. *equal contribution
 *	Zezheng Song<sup>*</sup>, **Jiaxin Yuan**<sup>*</sup> and Haizhao Yang. FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model for Dynamical Simulation. Adv. Theory Simul. 2025, 8, 2500062. https://doi.org/10.1002/adts.202500062. *equal contribution.
